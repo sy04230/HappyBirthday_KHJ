@@ -35,6 +35,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: flex-end;
+  flex-wrap: wrap;
 
   font-family: 'KOTRA_BOLD-Bold';
   font-size: 5rem;
