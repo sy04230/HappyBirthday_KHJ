@@ -36,8 +36,8 @@ h1 {
   align-items: flex-end;
 
   font-family: 'KOTRA_BOLD-Bold';
-  font-size: 6rem;
-  line-height: 9rem;
+  font-size: 5rem;
+  line-height: 8rem;
   word-break: keep-all;
 
   width: 100%;
@@ -60,7 +60,7 @@ h1 span.black {
 }
 
 h1 span.gradient {
-  font-size: 8rem;
+  font-size: 7rem;
   background: linear-gradient(to right, #fbcac9, #8ca6ce);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
